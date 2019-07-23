@@ -1,0 +1,511 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
+Castro-2010-511-1,sun*,1343,SUN,太阳
+Castro-2010-511-2,moon*,1313,MOON,月亮
+Castro-2010-511-3,star*,1430,STAR,星星
+Castro-2010-511-4,sky*,1732,SKY,"天,天空"
+Castro-2010-511-5,cloud*,1489,CLOUD,云朵
+Castro-2010-511-6,wind*,960,WIND,风
+Castro-2010-511-7,rain*,658,RAIN (PRECIPITATION),雨
+Castro-2010-511-8,fog*,249,FOG,雾
+Castro-2010-511-9,snow*,784,SNOW,雪
+Castro-2010-511-10,soil*,1228,EARTH (SOIL),土壤
+Castro-2010-511-11,stone*,857,STONE,石头
+Castro-2010-511-12,sand(fine)*,671,SAND,沙
+Castro-2010-511-13,dust*,2,DUST,尘土
+Castro-2010-511-14,fire*,221,FIRE,火
+Castro-2010-511-15,ash*,646,ASH,灰
+Castro-2010-511-16,smoke*,778,SMOKE (EXHAUST),烟
+Castro-2010-511-17,water*,948,WATER,水
+Castro-2010-511-18,river*,666,RIVER,河
+Castro-2010-511-19,lake*,624,LAKE,湖
+Castro-2010-511-20,sea*,1474,SEA,海
+Castro-2010-511-21,mountain(earth),,,土山
+Castro-2010-511-22,mountain(stone)*,639,MOUNTAIN,石山
+Castro-2010-511-23,grass*,606,GRASS,草
+Castro-2010-511-24,tree*,906,TREE,树
+Castro-2010-511-25,"forest,woods*",420,FOREST,树林
+Castro-2010-511-26,bark*,1204,BARK,树皮
+Castro-2010-511-27,leaf*,628,LEAF,叶子(小)
+Castro-2010-511-28,root*,670,ROOT,根
+Castro-2010-511-29,flower*,239,FLOWER,花
+Castro-2010-511-30,seed*,714,SEED,种子
+Castro-2010-511-31,fruit*,1507,FRUIT,水果
+Castro-2010-511-32,string*,1218,ROPE,绳子
+Castro-2010-511-33,stick*,1295,STICK,棍子
+Castro-2010-511-34,village,930,VILLAGE,村子
+Castro-2010-511-35,road*,667,ROAD,路
+Castro-2010-511-36,field*,140,PADDY FIELD,稻田
+Castro-2010-511-37,daytime*,1225,DAY (NOT NIGHT),白天
+Castro-2010-511-38,night*,1233,NIGHT,夜
+Castro-2010-511-39,year*,1226,YEAR,年
+Castro-2010-511-40,waterbuffalo*,2516,WATER BUFFALO,水牛
+Castro-2010-511-41,chicken*,1318,CHICKEN,鸡
+Castro-2010-511-42,bird*,937,BIRD,鸟
+Castro-2010-511-43,fish*,227,FISH,鱼
+Castro-2010-511-44,dog*,2009,DOG,狗
+Castro-2010-511-45,louse,1392,LOUSE,虱子(身上)
+Castro-2010-511-46,snake*,730,SNAKE,蛇
+Castro-2010-511-47,head*,1256,HEAD,头
+Castro-2010-511-48,hair*,2381,FEATHER OR FUR OR HAIR,毛
+Castro-2010-511-49,horn*,1393,HORN (ANATOMY),角
+Castro-2010-511-50,tail*,1220,TAIL,尾巴
+Castro-2010-511-51,skin*,763,SKIN,皮肤
+Castro-2010-511-52,bone*,1394,BONE,骨头
+Castro-2010-511-53,blood*,946,BLOOD,血
+Castro-2010-511-54,eye*,1248,EYE,眼睛
+Castro-2010-511-55,ear*,1247,EAR,耳朵
+Castro-2010-511-56,nose*,1221,NOSE,鼻子
+Castro-2010-511-57,mouth*,674,MOUTH,嘴巴
+Castro-2010-511-58,tooth*,1380,TOOTH,牙齿
+Castro-2010-511-59,tongue*,1205,TONGUE,舌头
+Castro-2010-511-60,neck*,1333,NECK,脖子
+Castro-2010-511-61,shoulder,1482,SHOULDER,肩膀
+Castro-2010-511-62,hand*,1277,HAND,手
+Castro-2010-511-63,fingernail*,1258,FINGERNAIL,指甲
+Castro-2010-511-64,wing*,1257,WING,翅膀
+Castro-2010-511-65,back*,1291,BACK,背
+Castro-2010-511-66,chest*,1592,CHEST,胸脯
+Castro-2010-511-67,breast*,1402,BREAST,乳房
+Castro-2010-511-68,heart*,1223,HEART,心脏
+Castro-2010-511-69,liver*,1224,LIVER,肝
+Castro-2010-511-70,stomach*,1251,BELLY,肚子
+Castro-2010-511-71,leg*,1297,LEG,腿
+Castro-2010-511-72,knee*,1371,KNEE,膝盖
+Castro-2010-511-73,foot*,1301,FOOT,脚
+Castro-2010-511-74,rice,926,RICE,大米
+Castro-2010-511-75,rice seedling,3050,SEEDLING,秧苗
+Castro-2010-511-76,vegetable,924,VEGETABLES,菜(蔬菜)
+Castro-2010-511-77,meat*,634,MEAT,肉
+Castro-2010-511-78,fat*,2555,OIL (FROM PLANTS),油(花生油)
+Castro-2010-511-79,egg*,744,EGG,蛋
+Castro-2010-511-80,salt*,1274,SALT,盐
+Castro-2010-511-81,person*,683,PERSON,人
+Castro-2010-511-82,man*,2106,MALE PERSON,男人
+Castro-2010-511-83,woman*,962,WOMAN,女人
+Castro-2010-511-84,father*,1217,FATHER,父亲
+Castro-2010-511-85,mother*,1216,MOTHER,母亲
+Castro-2010-511-86,child*,2099,CHILD,孩子
+Castro-2010-511-87,husband*,1200,HUSBAND,丈夫
+Castro-2010-511-88,wife*,1199,WIFE,妻子
+Castro-2010-511-89,"I,me*",1209,I,我
+Castro-2010-511-90,you*,1215,THOU,你
+Castro-2010-511-91,he/she*,2642,HE OR SHE,他/她
+Castro-2010-511-93,you(pl.)*,1213,YOU,你们
+Castro-2010-511-94,they*,817,THEY,他们/她们
+Castro-2010-511-95,here*,136,HERE,这里
+Castro-2010-511-96,there*,1937,THERE,那里
+Castro-2010-511-97,this*,1214,THIS,这(个)
+Castro-2010-511-98,that*,78,THAT,那(个)
+Castro-2010-511-99,one*,1493,ONE,一
+Castro-2010-511-100,two*,1498,TWO,二
+Castro-2010-511-101,three*,492,THREE,三
+Castro-2010-511-102,four*,1500,FOUR,四
+Castro-2010-511-103,five*,493,FIVE,五
+Castro-2010-511-104,many*,1198,MANY,多(许多)
+Castro-2010-511-105,few*,1242,FEW,少
+Castro-2010-511-106,all*,98,ALL,都
+Castro-2010-511-107,some*,1241,SOME,一些
+Castro-2010-511-108,"big,large*",1202,BIG,大
+Castro-2010-511-109,small*,1246,SMALL,小
+Castro-2010-511-110,long*,1203,LONG,长
+Castro-2010-511-111,short*,1645,SHORT,短
+Castro-2010-511-112,wide*,1243,WIDE,宽
+Castro-2010-511-113,narrow*,1267,NARROW,窄
+Castro-2010-511-114,thick*,1244,THICK,厚
+Castro-2010-511-115,thin*,2306,THIN (OF LEAF AND CLOTH),薄
+Castro-2010-511-116,heavy*,1210,HEAVY,重
+Castro-2010-511-117,light,1052,LIGHT (WEIGHT),轻
+Castro-2010-511-118,red*,156,RED,红
+Castro-2010-511-119,green*,1425,GREEN,绿
+Castro-2010-511-120,yellow*,1424,YELLOW,黄
+Castro-2010-511-121,white*,1335,WHITE,白
+Castro-2010-511-122,black*,163,BLACK,黑
+Castro-2010-511-123,hot (weather)*,2110,WARM (OF WEATHER),热(天气)
+Castro-2010-511-124,cold (weather)*,1287,COLD,冷(天气)
+Castro-2010-511-125,new*,1231,NEW,新
+Castro-2010-511-126,old (object)*,2113,OLD (USED),旧
+Castro-2010-511-127,good*,1035,GOOD,好
+Castro-2010-511-128,"bad,ruined*",1292,BAD,坏
+Castro-2010-511-129,rotten (fruit)*,1728,ROTTEN,腐烂(果子)
+Castro-2010-511-130,dirty*,1230,DIRTY,脏(衣服）
+Castro-2010-511-131,straight*,1404,STRAIGHT,直
+Castro-2010-511-132,round*,1395,ROUND,圆
+Castro-2010-511-133,full*,1429,FULL,满
+Castro-2010-511-134,sharp*,1396,SHARP,锋利
+Castro-2010-511-135,blunt*,379,BLUNT,钝
+Castro-2010-511-136,"slippery,smooth*",,,滑
+Castro-2010-511-137,wet*,1726,WET,湿
+Castro-2010-511-138,dry*,1398,DRY,干(衣服)
+Castro-2010-511-139,"right,correct*",1725,CORRECT (RIGHT),对(对了)
+Castro-2010-511-140,near*,1942,NEAR,近
+Castro-2010-511-141,far*,1406,FAR,远
+Castro-2010-511-142,right*,1019,RIGHT,右(边)
+Castro-2010-511-143,left*,244,LEFT,左(边)
+Castro-2010-511-144,hungry*,1533,BE HUNGRY,饿
+Castro-2010-511-145,to drink*,1401,DRINK,喝(酒)
+Castro-2010-511-146,to eat*,1336,EAT,吃
+Castro-2010-511-147,to bite*,1403,BITE,咬
+Castro-2010-511-148,to breath in*,2705,INHALE,吸(吮吸)
+Castro-2010-511-149,to breath out*,,,呼(放气)
+Castro-2010-511-150,to spit*,1440,SPIT,吐痰
+Castro-2010-511-151,to vomit*,1278,VOMIT,呕吐
+Castro-2010-511-152,to blow*,176,BLOW (WITH MOUTH),吹(火)
+Castro-2010-511-153,to laugh*,1355,LAUGH,笑(大笑)
+Castro-2010-511-154,"to look, see*",1819,LOOK,看
+Castro-2010-511-155,to hear*,1608,LISTEN,听
+Castro-2010-511-156,to know*,1410,KNOW (SOMETHING),知道
+Castro-2010-511-157,to think*,2271,THINK,想
+Castro-2010-511-158,to smell*,1586,SMELL (PERCEIVE),闻
+Castro-2010-511-159,to fear*,1419,FEAR (BE AFRAID),怕
+Castro-2010-511-160,to sleep*,1585,SLEEP,睡觉
+Castro-2010-511-161,to live*,1422,BE ALIVE,活
+Castro-2010-511-162,to die*,1494,DIE,死
+Castro-2010-511-163,to kill*,1417,KILL,杀
+Castro-2010-511-164,to quarrel*,1423,FIGHT,打架
+Castro-2010-511-165,to hunt*,1435,HUNT,打猎
+Castro-2010-511-166,to hit*,1433,HIT,打(用拳)
+Castro-2010-511-167,"to cut, slice*",2156,CUT (WITH KNIFE),切(肉)
+Castro-2010-511-168,"to split, chop*",155,CHOP,劈开
+Castro-2010-511-169,"to stab, prick*",1434,STAB,扎
+Castro-2010-511-170,to scratch*,1436,SCRATCH,抓(痒)(搔)
+Castro-2010-511-171,to dig*,1418,DIG,挖
+Castro-2010-511-172,to swim*,1439,SWIM,游泳
+Castro-2010-511-173,to fly*,1441,FLY (MOVE THROUGH AIR),飞
+Castro-2010-511-174,"to walk, go*",1443,WALK,走
+Castro-2010-511-175,to come*,1446,COME,来
+Castro-2010-511-176,to lie*,215,LIE DOWN,躺
+Castro-2010-511-177,to sit*,1649,SIT DOWN,坐
+Castro-2010-511-178,to stand*,1442,STAND,站
+Castro-2010-511-179,to wait*,1590,WAIT (FOR),等
+Castro-2010-511-180,to turn(a corner)*,1588,TURN,转
+Castro-2010-511-181,to drop*,750,DROP,掉
+Castro-2010-511-182,to give*,1447,GIVE,给
+Castro-2010-511-183,"to take, hold*",2104,HOLD OR TAKE,拿
+Castro-2010-511-184,to squeeze(oil)*,,,榨(油)
+Castro-2010-511-185,to suqeeze(juice)*,,,榨(蔗)
+Castro-2010-511-186,wipe*,,,擦
+Castro-2010-511-187,to wash(hands)*,1453,WASH,"洗(手,菜)"
+Castro-2010-511-188,to wash(clothes)*,3434,WASH (CLOTHES),洗(衣服)
+Castro-2010-511-189,"to pull, drag*",1455,PULL,拉(过来)
+Castro-2010-511-190,to push*,1452,PUSH,推
+Castro-2010-511-191,to throw*,1456,THROW,投
+Castro-2010-511-192,to tie*,1094,FASTEN,系
+Castro-2010-511-193,to speak*,1623,SPEAK,"说,讲"
+Castro-2010-511-194,to sing*,1261,SING,唱
+Castro-2010-511-195,to play*,1413,PLAY,玩
+Castro-2010-511-196,to float*,1574,FLOAT,浮
+Castro-2010-511-197,to flow*,2003,FLOW,流
+Castro-2010-511-198,to swell*,1573,SWELL,肿
+Castro-2010-511-199,to burn*,2102,BURN,烧
+Castro-2010-511-200,at*,1461,AT,在
+Castro-2010-511-201,in*,1460,IN,里(面)
+Castro-2010-511-202,out*,762,OUTSIDE,外(面)
+Castro-2010-511-203,"no, not*",1240,NOT,不
+Castro-2010-511-204,and*,1577,AND,和
+Castro-2010-511-205,with*,1340,WITH,跟
+Castro-2010-511-206,if*,1459,IF,如果
+Castro-2010-511-207,what*,1236,WHAT,什么
+Castro-2010-511-208,when?*,1238,WHEN,什么时候
+Castro-2010-511-209,who,1235,WHO,谁
+Castro-2010-511-210,where?*,1237,WHERE,哪里
+Castro-2010-511-211,how?*,1239,HOW,怎么
+Castro-2010-511-212,name*,1405,NAME,名字
+Castro-2010-511-213,to thunder,2378,THUNDER (VERB),打雷
+Castro-2010-511-214,to lightning,2377,FLASH (VERB),打闪
+Castro-2010-511-215,rainbow,1733,RAINBOW,彩虹
+Castro-2010-511-216,hail,609,HAIL,冰雹
+Castro-2010-511-217,sunlight,3276,SUNSHINE,阳光
+Castro-2010-511-218,shadow,2275,SHADOW,影子(人)
+Castro-2010-511-219,early,672,EARLY,早
+Castro-2010-511-220,morning,1339,MORNING,早晨
+Castro-2010-511-221,noon,12,MIDDAY,中午
+Castro-2010-511-222,evening,1629,EVENING,晚上
+Castro-2010-511-223,day,1260,DAY (24 HOURS),"天,日子"
+Castro-2010-511-224,yesterday,1174,YESTERDAY,昨天
+Castro-2010-511-225,tomorrow,1329,TOMORROW,明天
+Castro-2010-511-226,mud,640,MUD,泥巴
+Castro-2010-511-227,lime,2540,LIME (MATERIAL),石灰
+Castro-2010-511-228,cave,1155,CAVE,山洞
+Castro-2010-511-229,spring,849,SPRING (OF WATER),泉
+Castro-2010-511-230,cotton,1850,COTTON,棉
+Castro-2010-511-231,kapok tree,,,木棉树
+Castro-2010-511-232,branch,1531,BRANCH,树枝
+Castro-2010-511-233,thorn,124,THORN,剌(植物上)
+Castro-2010-511-234,mandarin orange,2627,ORANGE (FRUIT),柑果
+Castro-2010-511-235,papaya,2445,PAPAYA,木瓜
+Castro-2010-511-236,banana,399,PLANTAIN,香蕉
+Castro-2010-511-237,sugarcane,146,SUGAR CANE,甘蔗
+Castro-2010-511-238,tree mushroom,3392,MUER (FUNGUS),木耳
+Castro-2010-511-239,aubergine,1146,AUBERGINE,茄子
+Castro-2010-511-240,mustard,3181,MUSTARD,芥菜
+Castro-2010-511-241,bamboo shoot,2494,BAMBOO SHOOT,竹笋
+Castro-2010-511-242,peanut,2364,PEANUT,花生
+Castro-2010-511-243,bean,2574,BEAN OR PEA,豆
+Castro-2010-511-244,pig,1337,PIG,猪
+Castro-2010-511-245,goat,2684,CAPRINE (GOAT OR SHEEP),羊
+Castro-2010-511-246,horse,615,HORSE,马
+Castro-2010-511-247,ox,1153,CATTLE,牛(黄牛)
+Castro-2010-511-248,tiger,846,TIGER,老虎
+Castro-2010-511-249,deer,1936,DEER,鹿
+Castro-2010-511-250,monkey,1350,MONKEY,猴子
+Castro-2010-511-251,turtle,895,TORTOISE,乌龟
+Castro-2010-511-252,rabbit,1136,RABBIT,兔子
+Castro-2010-511-253,rat,1491,MOUSE,老鼠
+Castro-2010-511-254,elephant,1290,ELEPHANT,大象
+Castro-2010-511-255,duck,1360,DUCK,鸭子
+Castro-2010-511-256,bird‘s nest,539,NEST,鸟窝
+Castro-2010-511-257,cat,1208,CAT,猫
+Castro-2010-511-258,claw,72,CLAW,爪子
+Castro-2010-511-259,frog,503,FROG,蜻蛙
+Castro-2010-511-260,lizard,632,LIZARD,蜥蜴
+Castro-2010-511-261,"insect, bug",620,INSECT,虫
+Castro-2010-511-262,mosquito,1509,MOSQUITO,蚊子
+Castro-2010-511-263,fly,1504,FLY (INSECT),苍蝇
+Castro-2010-511-264,honeybee,665,BEE,蜜蜂
+Castro-2010-511-265,butterfly,1791,BUTTERFLY,蝴蝶
+Castro-2010-511-266,ant,587,ANT,蚂蚁
+Castro-2010-511-267,spider,843,SPIDER,蜘蛛
+Castro-2010-511-268,flea,232,FLEA,跳蚤
+Castro-2010-511-269,termite,883,TERMITE,白蚁
+Castro-2010-511-270,earthworm,2350,EARTHWORM,蚯蚓
+Castro-2010-511-271,leech,2273,LEECH,蚂蟥
+Castro-2010-511-272,snail,1543,SNAIL,螺蛳
+Castro-2010-511-273,ghost,1175,GHOST,鬼
+Castro-2010-511-274,body,1480,BODY,身体
+Castro-2010-511-275,forehead,123,FOREHEAD,额头
+Castro-2010-511-276,face,1560,FACE,脸
+Castro-2010-511-277,gums,139,GUMS,齿龈
+Castro-2010-511-278,chin,1510,CHIN,下巴
+Castro-2010-511-279,beard,678,BEARD,胡子
+Castro-2010-511-280,armpit,1886,ARMPIT,腋下
+Castro-2010-511-281,elbow,981,ELBOW,肘
+Castro-2010-511-282,palm,1183,PALM OF HAND,手掌
+Castro-2010-511-283,finger,1303,FINGER,手指
+Castro-2010-511-284,heel,980,HEEL,脚跟
+Castro-2010-511-285,lungs,688,LUNG,肺脏
+Castro-2010-511-286,brain,1583,BRAIN,脑子
+Castro-2010-511-287,navel,1838,NAVEL,肚脐
+Castro-2010-511-288,buttocks,834,BUTTOCKS,屁股
+Castro-2010-511-289,inteestines,1991,INTESTINES,肠子
+Castro-2010-511-290,sweat,2458,PERSPIRE OR SWEAT,汗
+Castro-2010-511-291,saliva,1503,SALIVA,口水
+Castro-2010-511-292,pus,1808,PUS,脓
+Castro-2010-511-293,manure,675,FAECES (EXCREMENT),粪(做肥料)
+Castro-2010-511-294,excrement,3435,COW DUNG,屎(牛屎)
+Castro-2010-511-295,urine,1142,URINE,尿
+Castro-2010-511-296,ill,1847,SICK,病
+Castro-2010-511-297,cough,879,COUGH,咳嗽
+Castro-2010-511-298,medicine,1372,MEDICINE,药
+Castro-2010-511-299,itch,149,ITCHY,痒
+Castro-2010-511-300,blind,1653,BLIND,瞎
+Castro-2010-511-301,deaf,996,DEAF,聋
+Castro-2010-511-302,garlic,2368,GARLIC,蒜
+Castro-2010-511-303,ginger,2500,GINGER,姜
+Castro-2010-511-304,sugar,862,SUGAR,糖
+Castro-2010-511-305,(cooked) rice,1191,COOKED RICE,饭
+Castro-2010-511-306,glutinous rice,2750,GLUTINOUS RICE,糯米
+Castro-2010-511-307,fat (meat),3436,FAT MEAT,肥肉
+Castro-2010-511-308,"spirits, alcohol",404,ALCOHOL (FERMENTED DRINK),酒
+Castro-2010-511-309,charcoal,1188,CHARCOAL,炭
+Castro-2010-511-310,firewood,10,FIREWOOD,柴火
+Castro-2010-511-311,matches,1133,MATCH,火柴
+Castro-2010-511-312,iron,621,IRON,铁
+Castro-2010-511-313,gold,1369,GOLD,金子
+Castro-2010-511-314,silver,759,SILVER,银子
+Castro-2010-511-315,rattan,2497,RATTAN,藤子
+Castro-2010-511-316,board,1227,BOARD,板(木板)
+Castro-2010-511-317,wok,2056,WOK,锅(炒菜锅)
+Castro-2010-511-318,ladle,2657,LADLE,舀子
+Castro-2010-511-319,to ladle,,,舀
+Castro-2010-511-320,mortar,224,MORTAR CRUSHER,臼
+Castro-2010-511-321,pestle,225,PESTLE,杵
+Castro-2010-511-322,knife,1352,KNIFE,刀
+Castro-2010-511-323,razor,151,RAZOR,刀(剃头)
+Castro-2010-511-324,gun,1566,GUN,枪
+Castro-2010-511-325,bow,994,BOW,弓
+Castro-2010-511-326,arrow,977,ARROW,箭
+Castro-2010-511-327,"lance, spear",945,SPEAR,矛
+Castro-2010-511-328,comb,1475,COMB,梳子
+Castro-2010-511-329,needle,1382,NEEDLE (FOR SEWING),针
+Castro-2010-511-330,house,1252,HOUSE,房子
+Castro-2010-511-331,roof,769,ROOF,屋顶
+Castro-2010-511-332,wall,933,WALL (OF HOUSE),墙壁
+Castro-2010-511-333,"door, gate",1567,DOOR,门
+Castro-2010-511-334,pit,2539,PIT (POTHOLE),坑(小)
+Castro-2010-511-335,well,954,WELL,井
+Castro-2010-511-336,clothes,1895,CLOTHES,衣服
+Castro-2010-511-337,cloth,1616,CLOTH,布
+Castro-2010-511-338,hat,771,HAT,帽子
+Castro-2010-511-339,trousers,809,TROUSERS,裤子
+Castro-2010-511-340,belt,772,BELT,裤带
+Castro-2010-511-341,shoes,1381,SHOE,鞋子
+Castro-2010-511-342,socks,1522,SOCK,袜子
+Castro-2010-511-343,ring,1374,RING,戒指
+Castro-2010-511-344,mat,195,MAT,草席
+Castro-2010-511-345,quilt,2048,QUILT,被子
+Castro-2010-511-346,pillow,1044,PILLOW,枕头
+Castro-2010-511-347,candle,1273,CANDLE,蜡烛
+Castro-2010-511-348,paper,648,PAPER,纸
+Castro-2010-511-349,drum,908,DRUM,鼓
+Castro-2010-511-350,gong,2502,GONG,锣
+Castro-2010-511-351,boat,1844,BOAT,船
+Castro-2010-511-352,yoke,14,YOKE,牛轭
+Castro-2010-511-353,young girl,1646,GIRL,少女
+Castro-2010-511-354,young man,76,YOUNG MAN,男青年
+Castro-2010-511-355,elder brother,1759,OLDER BROTHER,哥哥
+Castro-2010-511-356,elder sister,1758,OLDER SISTER,姐姐
+Castro-2010-511-357,siblings,1640,SIBLING,兄弟姐妹
+Castro-2010-511-358,younger brother,1760,YOUNGER BROTHER,弟弟
+Castro-2010-511-359,younger sister,1761,YOUNGER SISTER,妹妹
+Castro-2010-511-360,younger sibling,427,YOUNGER SIBLING,弟妹
+Castro-2010-511-361,aunt,3042,MATERNAL AUNT (MOTHER'S OLDER SISTER),姨母（妈的姐）
+Castro-2010-511-362,aunt‘s younger sis,3043,MATERNAL AUNT (MOTHER'S YOUNGER SISTER),姨妈（妈的妹）
+Castro-2010-511-363,nephew,1056,SON-IN-LAW,女婿
+Castro-2010-511-364,friend,1325,FRIEND,朋友
+Castro-2010-511-365,widow,1756,WIDOW,寡妇
+Castro-2010-511-366,master,1545,HOST,主人
+Castro-2010-511-367,guest,1782,GUEST,客人
+Castro-2010-511-368,other people,,,别人
+Castro-2010-511-369,surname,3426,SURNAME,姓
+Castro-2010-511-370,he (with kids),,,他(有孩)
+Castro-2010-511-371,he (without kids),,,他(没孩)
+Castro-2010-511-372,she (with kids),,,她(有孩)
+Castro-2010-511-373,she (without kids),,,她(没孩)
+Castro-2010-511-374,we (incl.),1131,WE (INCLUSIVE),我们
+Castro-2010-511-375,six,1703,SIX,六
+Castro-2010-511-376,seven,1704,SEVEN,七
+Castro-2010-511-377,eight,1705,EIGHT,八
+Castro-2010-511-378,nine,1483,NINE,九
+Castro-2010-511-379,ten,1515,TEN,十
+Castro-2010-511-380,one (in eleven),,,一(十一)
+Castro-2010-511-381,two (in twenty),,,二(二十)
+Castro-2010-511-382,two (+ classifier),,,两(+量词)
+Castro-2010-511-383,hundred,1634,HUNDRED,百
+Castro-2010-511-384,thousand,1843,THOUSAND,千
+Castro-2010-511-385,half,816,HALF,半(一半)
+Castro-2010-511-386,old (person),2112,OLD (AGED),老
+Castro-2010-511-387,young,1207,YOUNG,年轻
+Castro-2010-511-388,tall,1265,HIGH,高
+Castro-2010-511-389,"short, low",2484,SMALL (NOT TALL),矮
+Castro-2010-511-390,fat,1279,FAT (OBESE),胖
+Castro-2010-511-391,thin (body),1400,THIN (SLIM),瘦
+Castro-2010-511-392,weak,1601,WEAK,瘦弱
+Castro-2010-511-393,thick (rope),2151,COARSE,粗
+Castro-2010-511-394,thin,2157,FINE OR THIN,细
+Castro-2010-511-395,flat,1633,FLAT,扁
+Castro-2010-511-396,hard,1884,HARD,硬
+Castro-2010-511-397,soft,1856,SOFT,软
+Castro-2010-511-398,deep (water),1593,DEEP,深(水)
+Castro-2010-511-399,shallow (water),193,SHALLOW,浅(水)
+Castro-2010-511-400,cool,2483,COLD (OF WEATHER),凉快
+Castro-2010-511-401,warm,1232,WARM,暖和
+Castro-2010-511-402,hot (water),1286,HOT,热(水)
+Castro-2010-511-403,tired,1757,TIRED,累
+Castro-2010-511-404,drunk,1463,DRUNK,醉了
+Castro-2010-511-405,angry,2223,BE ANGRY,生气
+Castro-2010-511-406,bored,905,BORING,闷/无聊
+Castro-2010-511-407,naked,590,NAKED,裸体
+Castro-2010-511-408,empty,1624,EMPTY,空(都不装)
+Castro-2010-511-409,bright,679,BRIGHT,亮
+Castro-2010-511-410,clean,704,CLEAN,干净
+Castro-2010-511-411,blue,837,BLUE,蓝
+Castro-2010-511-412,difficult,584,DIFFICULT,难
+Castro-2010-511-413,easy,686,EASY,容易
+Castro-2010-511-414,wrong,1390,WRONG,错(错了)
+Castro-2010-511-415,fast,1631,FAST,快
+Castro-2010-511-416,slow,701,SLOW,慢
+Castro-2010-511-417,crooked,1698,CURVED,曲，弯曲
+Castro-2010-511-418,rotten (wood),,,朽(腐朽)
+Castro-2010-511-419,loose,,,松(土很松)
+Castro-2010-511-420,slack,2506,LOOSE,松(捆得松)
+Castro-2010-511-421,tight (tied),3053,TIGHT,紧(捆得紧)
+Castro-2010-511-422,"hot, spicy",544,SPICY,辣
+Castro-2010-511-423,sweet,717,SWEET,甜
+Castro-2010-511-424,sour,1906,SOUR,酸
+Castro-2010-511-425,salty,1091,SALTY,咸
+Castro-2010-511-426,bitter,887,BITTER,苦
+Castro-2010-511-427,raw (meat),1959,RAW,生(肉)
+Castro-2010-511-428,ripe,178,RIPE,熟
+Castro-2010-511-429,nauseating,,,恶心(想吐)
+Castro-2010-511-430,"full, satiated",106,SATIATED,饱
+Castro-2010-511-431,to chew (back teeth),321,CHEW,嚼
+Castro-2010-511-432,to lick,319,LICK,舔
+Castro-2010-511-433,to swallow (bit by bit),897,SWALLOW,吞
+Castro-2010-511-434,to kiss,578,KISS,吻
+Castro-2010-511-435,to yawn,1028,YAWN,打哈欠
+Castro-2010-511-436,to snore,1983,SNORE,打鼾
+Castro-2010-511-437,to sneeze,1621,SNEEZE,打喷嚏
+Castro-2010-511-438,to shout (not at others),715,SHOUT,喊
+Castro-2010-511-439,to scold,299,SCOLD,骂
+Castro-2010-511-440,to cry,1839,CRY,哭
+Castro-2010-511-441,to tell,1711,TELL,告诉
+Castro-2010-511-442,to open (mouth),3437,OPEN (MOUTH),张(嘴)
+Castro-2010-511-443,to open,1156,OPEN,开(门)
+Castro-2010-511-444,to close,1046,SHUT,关(门)
+Castro-2010-511-445,to run,1519,RUN,跑
+Castro-2010-511-446,to ride,367,RIDE,骑
+Castro-2010-511-447,to crawl,96,CRAWL,爬(在地上爬)
+Castro-2010-511-448,to climb (a tree),1102,CLIMB,爬上(树)
+Castro-2010-511-449,to jump,1829,JUMP,跳
+Castro-2010-511-450,to kick,1135,KICK,踢
+Castro-2010-511-451,to dance,1879,DANCE,跳舞
+Castro-2010-511-452,to embrace,928,EMBRACE,拥抱(两个～起来)
+Castro-2010-511-453,to bend (down),2761,BEND (ONESELF),弯(腰)
+Castro-2010-511-454,to kneel,66,KNEEL,跪
+Castro-2010-511-455,to carry (on a pole),3438,CARRY (WITH POLE ON SHOULDER),挑(水)
+Castro-2010-511-456,to lift,700,CARRY,抬
+Castro-2010-511-457,to go,695,GO,去
+Castro-2010-511-458,to enter,749,ENTER,进入
+Castro-2010-511-459,to go out,1107,GO OUT,出
+Castro-2010-511-460,to return,581,COME BACK,回来
+Castro-2010-511-461,to do work,1086,WORK (ACTIVITY),干活
+Castro-2010-511-462,to do,813,DO,做
+Castro-2010-511-463,to buy,1869,BUY,买
+Castro-2010-511-464,to sell,1571,SELL,卖
+Castro-2010-511-465,to steal,713,STEAL,偷
+Castro-2010-511-466,to pay (taxes),718,PAY,"缴,交(税)"
+Castro-2010-511-467,to tie up,1917,TIE,捆绑
+Castro-2010-511-468,to tether,2891,TIE UP (TETHER),拴(马)
+Castro-2010-511-469,to untie,352,UNTIE,解开
+Castro-2010-511-470,to fry,2162,STIR FRY,炒
+Castro-2010-511-471,to steam,2068,BRAISE (VERB),蒸
+Castro-2010-511-472,to boil,792,BOIL (OF LIQUID),煮
+Castro-2010-511-473,to boil(wine),,,熬(酒)
+Castro-2010-511-474,to pound (rice),354,POUND,舂(米)
+Castro-2010-511-475,to mill (rice),,,磨(米)
+Castro-2010-511-476,to weave,133,WEAVE,织(布)
+Castro-2010-511-477,to sew,1457,SEW,缝
+Castro-2010-511-478,to dye,157,DYE,染(布)
+Castro-2010-511-479,to wear,976,WEAR,穿
+Castro-2010-511-480,to take off,1755,UNDRESS,脱
+Castro-2010-511-481,to put down,998,PUT,放(下)
+Castro-2010-511-482,to dry (clothes),1786,DRY UP,晾(衣物)
+Castro-2010-511-483,to dry (in the sun),3364,DRY IN SUN,晒
+Castro-2010-511-484,to cut (rope),2155,CUT (WITH SCISSORS),剪(绳子)
+Castro-2010-511-485,to cut (grass),190,MOW,割(草)
+Castro-2010-511-486,"to squeeze, pinch (with fingers)",1414,SQUEEZE,挤
+Castro-2010-511-487,"to rub, twist",430,TWIST,搓(绳)
+Castro-2010-511-488,to shave,231,SHAVE,剃
+Castro-2010-511-489,to break,3020,BREAK (BREAKING),破
+Castro-2010-511-490,to put out,127,EXTINGUISH,灭
+Castro-2010-511-491,to put out (a light),,,熄(灯)
+Castro-2010-511-492,to bury,1719,BURY,埋
+Castro-2010-511-493,to select,1750,CHOOSE,挑选
+Castro-2010-511-494,to sink,1088,SINK (DESCEND),沉
+Castro-2010-511-495,to want,1784,WANT,想要
+Castro-2010-511-496,to have,2152,THERE IS OR THERE ARE,有
+Castro-2010-511-497,to tremble,52,SHIVER,发抖
+Castro-2010-511-498,to hide,2486,HIDE,隐藏
+Castro-2010-511-499,"to hide, keep secret",602,HIDE (CONCEAL),隐瞒
+Castro-2010-511-500,to count,1420,COUNT,数(动词)
+Castro-2010-511-501,to dream,1920,DREAM (SOMETHING),做梦
+Castro-2010-511-502,to forget,1523,FORGET,忘记
+Castro-2010-511-503,to hear,1408,HEAR,听见
+Castro-2010-511-504,to love,923,LOVE,爱
+Castro-2010-511-505,to shoot,1172,SHOOT,射击
+Castro-2010-511-506,to grow,1486,PLANT (SOMETHING),种(菜)
+Castro-2010-511-507,to bear (fruit),3054,BEAR FRUIT,结(果子)
+Castro-2010-511-508,to wash (in the river),3371,WASH (ONESELF),洗澡
+Castro-2010-511-509,not yet,,,还没有
+Castro-2010-511-510,to be,1579,BE,是
+Castro-2010-511-511,measure (word for a knife),2082,KNIFE (CLASSIFIER),把(一把刀)
