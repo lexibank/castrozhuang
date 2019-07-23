@@ -1,4 +1,4 @@
-# Yi Varieties in Heqing
+# Zhuang Dialects in Hongshui He
 
 Cite the source dataset as
 

@@ -12,7 +12,8 @@
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "Yi Varieties in Heqing",
+    "dc:title": "Zhuang Dialects in Hongshui He",
+    "dcat:accessURL": "https://github.com/lexibank/castrozhuang",
     "rdf:ID": "castrozhuang",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "dialect": {
