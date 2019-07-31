@@ -20,6 +20,8 @@ class HLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
     ChineseName = attr.ib(default=None)
+    Family = attr.ib(default='Tai-Kadai')
+    SubGroup = attr.ib(default='Zhuang')
 
 
 class Dataset(BaseDataset):
@@ -56,7 +58,7 @@ class Dataset(BaseDataset):
             for language in self.languages:
                 ds.add_language(
                         ID=language['ID'],
-                        Glottocode=language['Glottolog'],
+                        Glottocode=language['Glottocode'],
                         Name=language['Name'],
                         Latitude=language['Latitude'],
                         Longitude=language['Longitude'],
