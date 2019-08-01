@@ -22,6 +22,8 @@ class HLanguage(Language):
     ChineseName = attr.ib(default=None)
     Family = attr.ib(default='Tai-Kadai')
     SubGroup = attr.ib(default='Zhuang')
+    ISO = attr.ib(default=None)
+    Location = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
@@ -55,33 +57,17 @@ class Dataset(BaseDataset):
                         Concepticon_Gloss=concept.concepticon_gloss
                         )
                 concepts[strip_concept(concept.attributes['chinese'])] = concept.id
-            for language in self.languages:
-                ds.add_language(
-                        ID=language['ID'],
-                        Glottocode=language['Glottocode'],
-                        Name=language['Name'],
-                        Latitude=language['Latitude'],
-                        Longitude=language['Longitude'],
-                        ChineseName=language['ChineseName']
-                        )
-                langs[language['ChineseName']] = language['ID']
+            langs = {k['ChineseName']: k['ID'] for k in self.languages}
+            ds.add_languages()
 
             ds.add_sources(*self.raw.read_bib())
             bads = []
             for idx in tqdm(wl, desc='cldfify'):
-                #if wl[idx, 'concept'].replace(' ', '').replace('*', '') not in concepts:
-                #    c = wl[idx, 'concept'].replace(' ', '').replace('*', '')
-                #    if c not in bads:
-                #        print(wl[idx, 'concept'])
-                #    else:
-                #        bads += [c]
 
-                #else:
                 ds.add_lexemes(
                    Language_ID=langs[wl[idx, 'doculect']],
-                   Parameter_ID=concepts[strip_concept(wl[idx, 'concept'])], #.replace(' ', '').replace('*', '')],
+                   Parameter_ID=concepts[strip_concept(wl[idx, 'concept'])],     
                    Value=wl[idx, 'value'],
-                   Form=wl[idx, 'form'],
                    Segments=wl[idx, 'tokens'],
                    Source=['Castro2010a']
                    )
