@@ -1,4 +1,29 @@
 Grapheme	IPA
+i:u	iːu
+pl	p l
+kl	k l
+ʔm̩	ˀm m̩
+^ʔm̩	ˀm m̩
+ʔn	ˀn
+ʔm	ˀm
+ʔȵ	ˀȵ
+ʔŋ	ˀŋ
+kɣ	kɣ
+iːu	iːu
+ʔʝ	ˀʝ
+tc	tɕ
+uɛ	u/w ɛ
+^pl	p l
+^kl	k l
+^ʔn	ˀn
+^ʔm	ˀm
+^ʔȵ	ˀȵ
+^ʔŋ	ˀŋ
+^kɣ	kɣ
+^iːu	iːu
+^ʔʝ	ˀʝ
+^tc	tɕ
+^uɛ	u/w ɛ
 $	NULL
 (ȵɐp⁵⁵)	ȵ ɐ p ⁵⁵
 (ɣuːk¹²)	ɣ uː k
@@ -100,7 +125,7 @@ juɔ	ju/ɥ ɔ
 jiau	ji/j au
 juɜ	ju/ɥ ɜ
 jiu	ji/j u
-eau	eau
+eau	eau/eu
 ei	ei
 eo	eo
 eou	eou/eu

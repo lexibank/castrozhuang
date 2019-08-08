@@ -31,7 +31,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 11186,
+            "dc:extent": 10512,
             "tableSchema": {
                 "columns": [
                     {

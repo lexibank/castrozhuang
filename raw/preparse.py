@@ -14,6 +14,11 @@ def clean(form):
     form = form.replace('i̪ ', 'i̪')
     form = form.replace('ɘ̪ ', 'ɘ̪')
     form = form.replace('ʌ̪ ', 'ʌ̪')
+    form = form.replace('m̥ ', 'm̥')
+    form = form.replace('ë ', 'ë')
+    form = form.replace('ï ', 'ï')
+    form = form.replace('⁵̥ ⁴', '⁵⁴')
+    form = form.replace('m̙  ', 'm̙')
 
     st = [
             ('ɪ̪ ', 'ɪ̪'),

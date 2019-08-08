@@ -5,7 +5,7 @@ import attr
 from clldutils.misc import slug
 from clldutils.path import Path
 from clldutils.text import split_text, strip_brackets
-from pylexibank.dataset import Dataset as BaseDataset
+from pylexibank.dataset import NonSplittingDataset as BaseDataset
 from pylexibank.dataset import Concept, Language
 
 from lingpy import *
