@@ -1,6 +1,8 @@
 # Contributors
 
-Name               | GitHub user | Role
----                | ---         | ---
-Johann-Mattis List | @LinguList  | maintainer
-Mei-Shin Wu | | concept and language mapping
+Name               | GitHub user | Description                  | Role
+---                | ---         | ---                          | ---
+Johann-Mattis List | @LinguList  | maintainer                   | Author
+Mei-Shin Wu        |             | concept and language mapping | Author
+Andy Castro        |             | data collection              | DataCollector
+Bruce Hansen       |             | data collection              | DataCollector

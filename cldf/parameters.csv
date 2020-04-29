@@ -16,7 +16,7 @@ Castro-2010-511-14,fire*,221,FIRE,火
 Castro-2010-511-15,ash*,646,ASH,灰
 Castro-2010-511-16,smoke*,778,SMOKE (EXHAUST),烟
 Castro-2010-511-17,water*,948,WATER,水
-Castro-2010-511-18,river*,666,RIVER,河
+Castro-2010-511-18,river*,3311,FLOWING BODY OF WATER,河
 Castro-2010-511-19,lake*,624,LAKE,湖
 Castro-2010-511-20,sea*,1474,SEA,海
 Castro-2010-511-21,mountain(earth),,,土山
@@ -133,7 +133,7 @@ Castro-2010-511-132,round*,1395,ROUND,圆
 Castro-2010-511-133,full*,1429,FULL,满
 Castro-2010-511-134,sharp*,1396,SHARP,锋利
 Castro-2010-511-135,blunt*,379,BLUNT,钝
-Castro-2010-511-136,"slippery,smooth*",,,滑
+Castro-2010-511-136,"slippery,smooth*",3702,SLIPPERY,滑
 Castro-2010-511-137,wet*,1726,WET,湿
 Castro-2010-511-138,dry*,1398,DRY,干(衣服)
 Castro-2010-511-139,"right,correct*",1725,CORRECT (RIGHT),对(对了)
@@ -177,7 +177,7 @@ Castro-2010-511-176,to lie*,215,LIE DOWN,躺
 Castro-2010-511-177,to sit*,1649,SIT DOWN,坐
 Castro-2010-511-178,to stand*,1442,STAND,站
 Castro-2010-511-179,to wait*,1590,WAIT (FOR),等
-Castro-2010-511-180,to turn(a corner)*,1588,TURN,转
+Castro-2010-511-180,to turn(a corner)*,1444,TURN AROUND,转
 Castro-2010-511-181,to drop*,750,DROP,掉
 Castro-2010-511-182,to give*,1447,GIVE,给
 Castro-2010-511-183,"to take, hold*",2104,HOLD OR TAKE,拿
@@ -253,7 +253,7 @@ Castro-2010-511-252,rabbit,1136,RABBIT,兔子
 Castro-2010-511-253,rat,1491,MOUSE,老鼠
 Castro-2010-511-254,elephant,1290,ELEPHANT,大象
 Castro-2010-511-255,duck,1360,DUCK,鸭子
-Castro-2010-511-256,bird‘s nest,539,NEST,鸟窝
+Castro-2010-511-256,bird‘s nest,3549,BIRD NEST,鸟窝
 Castro-2010-511-257,cat,1208,CAT,猫
 Castro-2010-511-258,claw,72,CLAW,爪子
 Castro-2010-511-259,frog,503,FROG,蜻蛙
@@ -317,7 +317,7 @@ Castro-2010-511-316,board,1227,BOARD,板(木板)
 Castro-2010-511-317,wok,2056,WOK,锅(炒菜锅)
 Castro-2010-511-318,ladle,2657,LADLE,舀子
 Castro-2010-511-319,to ladle,,,舀
-Castro-2010-511-320,mortar,224,MORTAR CRUSHER,臼
+Castro-2010-511-320,mortar,224,MORTAR,臼
 Castro-2010-511-321,pestle,225,PESTLE,杵
 Castro-2010-511-322,knife,1352,KNIFE,刀
 Castro-2010-511-323,razor,151,RAZOR,刀(剃头)
@@ -414,7 +414,7 @@ Castro-2010-511-413,easy,686,EASY,容易
 Castro-2010-511-414,wrong,1390,WRONG,错(错了)
 Castro-2010-511-415,fast,1631,FAST,快
 Castro-2010-511-416,slow,701,SLOW,慢
-Castro-2010-511-417,crooked,1698,CURVED,曲，弯曲
+Castro-2010-511-417,crooked,297,CROOKED,曲，弯曲
 Castro-2010-511-418,rotten (wood),,,朽(腐朽)
 Castro-2010-511-419,loose,,,松(土很松)
 Castro-2010-511-420,slack,2506,LOOSE,松(捆得松)
@@ -468,10 +468,10 @@ Castro-2010-511-467,to tie up,1917,TIE,捆绑
 Castro-2010-511-468,to tether,2891,TIE UP (TETHER),拴(马)
 Castro-2010-511-469,to untie,352,UNTIE,解开
 Castro-2010-511-470,to fry,2162,STIR FRY,炒
-Castro-2010-511-471,to steam,2068,BRAISE (VERB),蒸
+Castro-2010-511-471,to steam,2067,STEAM (VERB),蒸
 Castro-2010-511-472,to boil,792,BOIL (OF LIQUID),煮
 Castro-2010-511-473,to boil(wine),,,熬(酒)
-Castro-2010-511-474,to pound (rice),354,POUND,舂(米)
+Castro-2010-511-474,to pound (rice),3768,POUND (FOOD),舂(米)
 Castro-2010-511-475,to mill (rice),,,磨(米)
 Castro-2010-511-476,to weave,133,WEAVE,织(布)
 Castro-2010-511-477,to sew,1457,SEW,缝
@@ -503,7 +503,7 @@ Castro-2010-511-502,to forget,1523,FORGET,忘记
 Castro-2010-511-503,to hear,1408,HEAR,听见
 Castro-2010-511-504,to love,923,LOVE,爱
 Castro-2010-511-505,to shoot,1172,SHOOT,射击
-Castro-2010-511-506,to grow,1486,PLANT (SOMETHING),种(菜)
+Castro-2010-511-506,to grow,3461,GROW PLANTS,种(菜)
 Castro-2010-511-507,to bear (fruit),3054,BEAR FRUIT,结(果子)
 Castro-2010-511-508,to wash (in the river),3371,WASH (ONESELF),洗澡
 Castro-2010-511-509,not yet,,,还没有

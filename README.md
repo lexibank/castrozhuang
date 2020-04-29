@@ -1,4 +1,4 @@
-# Zhuang Dialects in Hongshui He
+# CLDF dataset derived from Castro and Hansen's "Zhuang Dialects in Hongshui He" from 2010
 
 Cite the source dataset as
 
@@ -6,11 +6,10 @@ Cite the source dataset as
 
 This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
 
+
 Conceptlists in Concepticon:
-- [Castro-2010-511](http://concepticon.clld.org/contributions/Castro-2010-511)
-
+- [Castro-2010-511](https://concepticon.clld.org/contributions/Castro-2010-511)
 ## Statistics
-
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -25,6 +24,17 @@ Conceptlists in Concepticon:
 - **Sources:** 1
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 47,059
-- **Segments:** 207 (0 BIPA errors, 0 CTLS sound class errors, 207 CLTS modified)
-- **Inventory size (avg):** 72.95
+- **Tokens:** 47,110
+- **Segments:** 209 (0 BIPA errors, 0 CTLS sound class errors, 209 CLTS modified)
+- **Inventory size (avg):** 73.05
+
+# Contributors
+
+Name               | GitHub user | Description | Role
+---                | ---         | --- | ---
+Johann-Mattis List | @LinguList  | maintainer | Author
+Mei-Shin Wu | | concept and language mapping | Author
+Andy Castro | | data collection | DataCollector
+Bruce Hansen | | data collection | DataCollector
+
+
