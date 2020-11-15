@@ -25,16 +25,16 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 47,110
-- **Segments:** 209 (0 BIPA errors, 0 CTLS sound class errors, 209 CLTS modified)
+- **Segments:** 209 (0 BIPA errors, 0 CTLS sound class errors, 208 CLTS modified)
 - **Inventory size (avg):** 73.05
 
 # Contributors
 
-Name               | GitHub user | Description | Role
----                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Author
-Mei-Shin Wu | | concept and language mapping | Author
-Andy Castro | | data collection | DataCollector
-Bruce Hansen | | data collection | DataCollector
+Name               | GitHub user | Description                  | Role
+---                | ---         | ---                          | ---
+Johann-Mattis List | @LinguList  | maintainer                   | Author
+Mei-Shin Wu        |             | concept and language mapping | Author
+Andy Castro        |             | data collection              | DataCollector
+Bruce Hansen       |             | data collection              | DataCollector
 
 

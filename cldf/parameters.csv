@@ -185,7 +185,7 @@ Castro-2010-511-184,to squeeze(oil)*,,,榨(油)
 Castro-2010-511-185,to suqeeze(juice)*,,,榨(蔗)
 Castro-2010-511-186,wipe*,,,擦
 Castro-2010-511-187,to wash(hands)*,1453,WASH,"洗(手,菜)"
-Castro-2010-511-188,to wash(clothes)*,3434,WASH (CLOTHES),洗(衣服)
+Castro-2010-511-188,to wash(clothes)*,2503,LAUNDER (WASH CLOTHES),洗(衣服)
 Castro-2010-511-189,"to pull, drag*",1455,PULL,拉(过来)
 Castro-2010-511-190,to push*,1452,PUSH,推
 Castro-2010-511-191,to throw*,1456,THROW,投
@@ -215,7 +215,7 @@ Castro-2010-511-214,to lightning,2377,FLASH (VERB),打闪
 Castro-2010-511-215,rainbow,1733,RAINBOW,彩虹
 Castro-2010-511-216,hail,609,HAIL,冰雹
 Castro-2010-511-217,sunlight,3276,SUNSHINE,阳光
-Castro-2010-511-218,shadow,2275,SHADOW,影子(人)
+Castro-2010-511-218,shadow,1388,SHADE,影子(人)
 Castro-2010-511-219,early,672,EARLY,早
 Castro-2010-511-220,morning,1339,MORNING,早晨
 Castro-2010-511-221,noon,12,MIDDAY,中午
