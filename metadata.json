@@ -1,6 +1,6 @@
 {
     "title": "CLDF dataset derived from Castro and Hansen's \"Zhuang Dialects in Hongshui He\" from 2010",
-    "license": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "license": "CC-BY-4.0",
     "citation": "Castro, Andy; Hansen, Bruce (2010): Hongshui He Zhuang dialect intelligibility survey. Dallas: SIL International.",
     "conceptlist": "Castro-2010-511"
 }

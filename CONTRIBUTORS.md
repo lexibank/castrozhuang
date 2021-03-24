@@ -2,7 +2,7 @@
 
 Name               | GitHub user | Description                  | Role
 ---                | ---         | ---                          | ---
-Johann-Mattis List | @LinguList  | maintainer                   | Author
-Mei-Shin Wu        |             | concept and language mapping | Author
-Andy Castro        |             | data collection              | DataCollector
-Bruce Hansen       |             | data collection              | DataCollector
+Johann-Mattis List | @LinguList  | maintainer                   | Other
+Mei-Shin Wu        |             | concept and language mapping | Other
+Andy Castro        |             | data collection              | Author
+Bruce Hansen       |             | data collection              | Author

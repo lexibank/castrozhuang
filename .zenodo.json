@@ -7,20 +7,20 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "Andy Castro"
         },
         {
-            "name": "Mei-Shin Wu"
+            "name": "Bruce Hansen"
         }
     ],
     "contributors": [
         {
-            "name": "Andy Castro",
-            "type": "DataCollector"
+            "name": "Johann-Mattis List",
+            "type": "Other"
         },
         {
-            "name": "Bruce Hansen",
-            "type": "DataCollector"
+            "name": "Mei-Shin Wu",
+            "type": "Other"
         }
     ],
     "communities": [
@@ -31,6 +31,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Castro, Andy; Hansen, Bruce (2010): Hongshui He Zhuang dialect intelligibility survey. Dallas: SIL International.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }

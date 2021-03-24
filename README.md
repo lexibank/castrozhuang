@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Castro, Andy; Hansen, Bruce (2010): Hongshui He Zhuang dialect intelligibility survey. Dallas: SIL International.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 
 Conceptlists in Concepticon:
@@ -32,9 +32,9 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user | Description                  | Role
 ---                | ---         | ---                          | ---
-Johann-Mattis List | @LinguList  | maintainer                   | Author
-Mei-Shin Wu        |             | concept and language mapping | Author
-Andy Castro        |             | data collection              | DataCollector
-Bruce Hansen       |             | data collection              | DataCollector
+Johann-Mattis List | @LinguList  | maintainer                   | Other
+Mei-Shin Wu        |             | concept and language mapping | Other
+Andy Castro        |             | data collection              | Author
+Bruce Hansen       |             | data collection              | Author
 
 
