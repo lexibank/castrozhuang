@@ -1,21 +1,21 @@
-ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup,ISO,Location
-LuzhaiSipai,Luzhai Sipai,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.48884,109.73388,Tai-Kadai,鹿寨四排,Zhuang,,鹿寨县四排乡水头村
-LuzhaiLuzhai,Luzhai Luzhai,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.36935,109.746886,Tai-Kadai,鹿寨鹿寨,Zhuang,,鹿寨县鹿寨镇独羊村
-XiangzhouDale,Xiangzhou Dale,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.07619,109.979439,Tai-Kadai,象州大乐,Zhuang,,象州县大乐镇六回村
-XiangzhouYunjiang,Xiangzhou Yunjiang,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.137508,109.733639,Tai-Kadai,象州运江,Zhuang,,象州县运江镇石鼓村
-WuxuanTongling,Wuxuan Tongling,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.394139,109.594364,Tai-Kadai,武宣桐岭,Zhuang,,武宣县桐岭镇新龙村
-WuxuanHuangmao,Wuxuan Huangmao,liuq1235,Liuqian Zhuang,zlq,Eurasia,23.780134,109.636403,Tai-Kadai,武宣黄茆,Zhuang,,武宣县黄茆镇根村
-GuipingShilong,Guiping Shilong,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.369872,109.830511,Tai-Kadai,桂平石龙,Zhuang,,桂平市石龙镇永兴村
-GangbeiZhongli,Gangbei Zhongli,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.281551,109.641785,Tai-Kadai,港北中里,Zhuang,,港北区中里乡塘河村
-XingbinSishan,Xingbin Sishan,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.551889,109.383262,Tai-Kadai,兴宾寺山,Zhuang,,兴宾区寺山乡大炉村
-XingbinQianjiang,Xingbin Qianjiang,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.548344,108.900099,Tai-Kadai,兴宾迁江,Zhuang,,兴宾区迁江镇大里村
-ShanglinTanghong,Shanglin Tanghong,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.703444,108.605752,Tai-Kadai,上林塘红,Zhuang,,上林县塘红乡石门村
-ShanglinMingliang,Shanglin Mingliang,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.39007,108.593644,Tai-Kadai,上林明亮,Zhuang,,上林县明亮镇溯浪村
-MashanYongzhou,Mashan Yongzhou,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.55591,107.824583,Tai-Kadai,马山永州,Zhuang,,马山县永州镇胜利村
-MashanBaishan,Mashan Baishan,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.68569,108.17574,Tai-Kadai,马山白山,Zhuang,,马山县白山镇大同村
-DahuaYantan,Dahua Yantan,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,24.026928,107.570884,Tai-Kadai,大化岩滩,Zhuang,,大化县岩滩镇棉山村
-DahuaLiushui,Dahua Liushui,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.75189,107.9715,Tai-Kadai,大化流水,Zhuang,,大化县流水乡头水片
-DuAnGaoling,Du'an Gaoling,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,24.06382,108.079128,Tai-Kadai,都安高岭,Zhuang,,都安县高岭镇弄池村
-DuAnBaiwang,Du'an Baiwang,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,24.11682,108.41675,Tai-Kadai,都安百旺,Zhuang,,都安县百旺乡百旺村
-XinchengBeigeng,Xincheng Beigeng,east2326,Salaca Livonian,zeh,Eurasia,23.775707,108.559842,Tai-Kadai,忻城北更,Zhuang,,忻城县北更乡塘太村
-XinchengGuosui,Xincheng Guosui,east2326,Salaca Livonian,zeh,Eurasia,23.879303,108.80687,Tai-Kadai,忻城果邃,Zhuang,,忻城县果遂乡古楼村
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,ChineseName,SubGroup,Location
+LuzhaiSipai,Luzhai Sipai,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.48884,109.73388,Tai-Kadai,鹿寨四排,Zhuang,鹿寨县四排乡水头村
+LuzhaiLuzhai,Luzhai Luzhai,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.36935,109.746886,Tai-Kadai,鹿寨鹿寨,Zhuang,鹿寨县鹿寨镇独羊村
+XiangzhouDale,Xiangzhou Dale,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.07619,109.979439,Tai-Kadai,象州大乐,Zhuang,象州县大乐镇六回村
+XiangzhouYunjiang,Xiangzhou Yunjiang,liuq1235,Liuqian Zhuang,zlq,Eurasia,24.137508,109.733639,Tai-Kadai,象州运江,Zhuang,象州县运江镇石鼓村
+WuxuanTongling,Wuxuan Tongling,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.394139,109.594364,Tai-Kadai,武宣桐岭,Zhuang,武宣县桐岭镇新龙村
+WuxuanHuangmao,Wuxuan Huangmao,liuq1235,Liuqian Zhuang,zlq,Eurasia,23.780134,109.636403,Tai-Kadai,武宣黄茆,Zhuang,武宣县黄茆镇根村
+GuipingShilong,Guiping Shilong,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.369872,109.830511,Tai-Kadai,桂平石龙,Zhuang,桂平市石龙镇永兴村
+GangbeiZhongli,Gangbei Zhongli,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.281551,109.641785,Tai-Kadai,港北中里,Zhuang,港北区中里乡塘河村
+XingbinSishan,Xingbin Sishan,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.551889,109.383262,Tai-Kadai,兴宾寺山,Zhuang,兴宾区寺山乡大炉村
+XingbinQianjiang,Xingbin Qianjiang,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.548344,108.900099,Tai-Kadai,兴宾迁江,Zhuang,兴宾区迁江镇大里村
+ShanglinTanghong,Shanglin Tanghong,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.703444,108.605752,Tai-Kadai,上林塘红,Zhuang,上林县塘红乡石门村
+ShanglinMingliang,Shanglin Mingliang,east2363,Eastern Hongshuihe Zhuang,zeh,Eurasia,23.39007,108.593644,Tai-Kadai,上林明亮,Zhuang,上林县明亮镇溯浪村
+MashanYongzhou,Mashan Yongzhou,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.55591,107.824583,Tai-Kadai,马山永州,Zhuang,马山县永州镇胜利村
+MashanBaishan,Mashan Baishan,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.68569,108.17574,Tai-Kadai,马山白山,Zhuang,马山县白山镇大同村
+DahuaYantan,Dahua Yantan,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,24.026928,107.570884,Tai-Kadai,大化岩滩,Zhuang,大化县岩滩镇棉山村
+DahuaLiushui,Dahua Liushui,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,23.75189,107.9715,Tai-Kadai,大化流水,Zhuang,大化县流水乡头水片
+DuAnGaoling,Du'an Gaoling,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,24.06382,108.079128,Tai-Kadai,都安高岭,Zhuang,都安县高岭镇弄池村
+DuAnBaiwang,Du'an Baiwang,cent2009,Central Hongshuihe Zhuang,zch,Eurasia,24.11682,108.41675,Tai-Kadai,都安百旺,Zhuang,都安县百旺乡百旺村
+XinchengBeigeng,Xincheng Beigeng,east2326,Salaca Livonian,zeh,Eurasia,23.775707,108.559842,Tai-Kadai,忻城北更,Zhuang,忻城县北更乡塘太村
+XinchengGuosui,Xincheng Guosui,east2326,Salaca Livonian,zeh,Eurasia,23.879303,108.80687,Tai-Kadai,忻城果邃,Zhuang,忻城县果遂乡古楼村
