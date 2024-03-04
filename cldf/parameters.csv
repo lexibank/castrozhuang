@@ -183,7 +183,7 @@ Castro-2010-511-182,to give*,1447,GIVE,给
 Castro-2010-511-183,"to take, hold*",2104,HOLD OR TAKE,拿
 Castro-2010-511-184,to squeeze(oil)*,,,榨(油)
 Castro-2010-511-185,to suqeeze(juice)*,,,榨(蔗)
-Castro-2010-511-186,wipe*,,,擦
+Castro-2010-511-186,wipe*,1454,WIPE,擦
 Castro-2010-511-187,to wash(hands)*,1453,WASH,"洗(手,菜)"
 Castro-2010-511-188,to wash(clothes)*,2503,LAUNDER (WASH CLOTHES),洗(衣服)
 Castro-2010-511-189,"to pull, drag*",1455,PULL,拉(过来)
@@ -316,7 +316,7 @@ Castro-2010-511-315,rattan,2497,RATTAN,藤子
 Castro-2010-511-316,board,1227,BOARD,板(木板)
 Castro-2010-511-317,wok,2056,WOK,锅(炒菜锅)
 Castro-2010-511-318,ladle,2657,LADLE,舀子
-Castro-2010-511-319,to ladle,,,舀
+Castro-2010-511-319,to ladle,2788,LADLE (WATER),舀
 Castro-2010-511-320,mortar,224,MORTAR,臼
 Castro-2010-511-321,pestle,225,PESTLE,杵
 Castro-2010-511-322,knife,1352,KNIFE,刀
@@ -416,7 +416,7 @@ Castro-2010-511-415,fast,1631,FAST,快
 Castro-2010-511-416,slow,701,SLOW,慢
 Castro-2010-511-417,crooked,297,CROOKED,曲，弯曲
 Castro-2010-511-418,rotten (wood),,,朽(腐朽)
-Castro-2010-511-419,loose,,,松(土很松)
+Castro-2010-511-419,loose,2506,LOOSE,松(土很松)
 Castro-2010-511-420,slack,2506,LOOSE,松(捆得松)
 Castro-2010-511-421,tight (tied),3053,TIGHT,紧(捆得紧)
 Castro-2010-511-422,"hot, spicy",544,SPICY,辣

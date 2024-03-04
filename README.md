@@ -22,7 +22,7 @@ Conceptlists in Concepticon:
 
 [![CLDF validation](https://github.com/lexibank/castrozhuang/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/castrozhuang/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
-![Concepticon: 96%](https://img.shields.io/badge/Concepticon-96%25-green.svg "Concepticon: 96%")
+![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
@@ -34,7 +34,7 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 47,110
-- **Segments:** 209 (0 BIPA errors, 0 CTLS sound class errors, 208 CLTS modified)
+- **Segments:** 209 (0 BIPA errors, 0 CLTS sound class errors, 208 CLTS modified)
 - **Inventory size (avg):** 73.05
 
 # Contributors
