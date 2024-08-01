@@ -25,6 +25,7 @@ class Dataset(pylexibank.Dataset):
     dir = Path(__file__).parent
     concept_class = HConcept
     language_class = HLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
 
